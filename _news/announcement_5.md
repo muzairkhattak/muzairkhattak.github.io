@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Selected as NVIDIA certified Jetson AI specialist! [https://www.linkedin.com/posts/muhammad-uzair-khattak-204ba1150_embedded-nvidiajetson-deeplearning-activity-6735567828964909056-MxQo/?utm_source=linkedin_share&utm_medium=member_desktop_web](certification)
+Selected as NVIDIA certified Jetson AI specialist! [certification](https://www.linkedin.com/posts/muhammad-uzair-khattak-204ba1150_embedded-nvidiajetson-deeplearning-activity-6735567828964909056-MxQo/?utm_source=linkedin_share&utm_medium=member_desktop_web)
