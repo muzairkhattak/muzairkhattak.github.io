@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Serving as a reviewer at ICML'23 and ICCV'23!
+Serving as a reviewer at ICML'23 and CVPR'23!
