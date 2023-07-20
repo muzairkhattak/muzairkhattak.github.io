@@ -6,7 +6,7 @@ subtitle: Computer Vision graduate student, <a href='https://mbzuai.ac.ae/'>MBZU
 
 profile:
   align: right
-  image: image_uzair_khattak.jpeg
+  image: image_uzair_khattak.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>Masdar City, Abu Dhabi </p>
