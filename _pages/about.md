@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Computer Vision graduate student, <a href='https://mbzuai.ac.ae/'>MBZUAI</a>, Abu-Dhabi - BSc from <a href='https://seecs.nust.edu.pk/'>SEECS, NUST</a>, Pakistan.
 
