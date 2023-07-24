@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited for a remote research talk on our [Multi-modal Prompt Learning] work by [Prof. Chin](https://scholar.google.com/citations?user=5zZjmvEAAAAJ&hl=en), director [LISP lab](https://lisplab.host.dartmouth.edu/), Dartmouth College.
+Invited for a remote research talk on our [Multi-modal Prompt Learning](https://muzairkhattak.github.io/multimodal-prompt-learning/) work by [Prof. Chin](https://scholar.google.com/citations?user=5zZjmvEAAAAJ&hl=en), director [LISP lab](https://lisplab.host.dartmouth.edu/), Dartmouth College.
