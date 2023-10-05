@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work on **test-time prompt learning for foundational models** got accepted into NeurIPS’23! Congratulations to all co-authors!
+Our work on test-time prompt learning for foundational models got accepted into NeurIPS’23! Congratulations to all co-authors!
