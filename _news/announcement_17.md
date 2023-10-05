@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our ICCV'23 work [PromptSRC](https://muzairkhattak.github.io/PromptSRC/) has been presented as an oral paper at [WECIA workshop on Emotionally and Culturally Intelligent AI](https://iccv23-wecia.github.io/), held in conjunction with ICCV'23! Congratulations to all co-authors! 
+Our ICCV'23 work [PromptSRC](https://muzairkhattak.github.io/PromptSRC/) has been selected as an oral paper at [WECIA workshop](https://iccv23-wecia.github.io/), held in conjunction with ICCV'23! Congratulations to all co-authors! 
