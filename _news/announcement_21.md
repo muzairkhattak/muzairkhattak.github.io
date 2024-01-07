@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We have released our recent work on Prompt Learning with Text Only Supervision for Vision Language models! More details [on the project page](https://muzairkhattak.github.io/ProText/).
+We have released ProText, a novel framework to adapt Vision-Language models with text-only data. More details [on the project page](https://muzairkhattak.github.io/ProText/) !
