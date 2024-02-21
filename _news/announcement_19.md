@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited talk at [WADLA 2023 Deep Learning Workshop](https://wadla.in/).
+Invited talk at [WADLA 2023 Deep Learning Workshop](https://wadla.in/). ([Recording](https://youtu.be/J488NEJFBuw?si=r36hDhas4KC_FTQE))
